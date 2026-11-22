@@ -1,0 +1,29 @@
+# Vivado generated folders and files
+*.jou
+*.log
+*.str
+*.backup.*
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
+*.debug/
+*.wcfg
+*.dcp
+dfx_runtime.txt
+
+# Bitstreams (upload to GitHub Releases instead)
+*.bit
+*.bin
+*.ltx
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
